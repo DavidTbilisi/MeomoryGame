@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    background-color: #0a4c4e;
+}
+
+body {
+    width: 98%;
+    margin: auto;
+    background: linear-gradient(#084a57, #116365, #073841);
+    box-shadow: inset 0px 0px 22.8px 1px #272727;
+}
+
+#txt button {
+    
+    width: 100px;
+    height: 20%;
+   /* border-radius: 50%;*/
+    margin:  10px auto;
+    color: #093434;
+    font-weight: 900;
+    background: linear-gradient(rgb(129, 221, 229), rgb(0, 107, 121))
+}
+
+button {
+    display: block;
+    width: 70px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+img{
+    border: 1px solid rgba(7, 217, 255, 0.53);
+    width: 30%;
+    margin: auto;
+    box-sizing: border-box;
+    
+}
+
+P{
+    font-size: 350%;
+        
+}
+
+#imag {
+    position: relative;
+    top: 25% ;
+    width: 98%;
+    margin: auto 5%;
+    background: linear-gradient(#07d9ff, #ff0000;)
+}
+
+#txt {
+    width: 20%;
+    background:radial-gradient(#0a4e4b,rgba(17, 99, 101, 0),rgba(255, 0, 0, 0));
+    position: relative;
+    top: 10%;
+    margin: 0px auto 10px auto;
+    
+}
+
+#left{
+    float: left;
+    margin-left: 20px;
+    color:#ac2525;
+}
+
+#right{
+    float: right;
+    margin-right: 20px; 
+    color:#006710;
+}
+
+#points {
+    background: white;
+    height: 70px;
+}
+
+#answer {
+    color: aqua;
+}
+
+#rand7 {
+    color: #086f72;
+    font-weight: bolder;
+    text-shadow: 1px 1px black, -1px -1px #ffffff;
+    text-align: center;
+}
