@@ -66,6 +66,7 @@ var winPoint = 0,
     errPoint = 0,
     min = 0,
     max = 99;
+document.querySelector("#rand").style.textAlign="center";
 
 function change() {
     "use strict";
